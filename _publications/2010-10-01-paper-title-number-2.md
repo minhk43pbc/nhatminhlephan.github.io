@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Inverse Optimal-Based Attitude Control for Fixed-Wing Unmanned Aerial Vehicles"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://ieeexplore.ieee.org/document/10136717
+date: 2023-05
+venue: 'IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/document/10136717'
+citation: '**N. -M. Le-Phan**, D. L. Dinh, A. N. D. Duc and N. P. Van, "Inverse Optimal-Based Attitude Control for Fixed-Wing Unmanned Aerial Vehicles," in IEEE Access, vol. 11, pp. 52996-53005, 2023, doi: 10.1109/ACCESS.2023.3280424.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
