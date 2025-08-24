@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! Nhat-Minh here. I’m a researcher and faculty member in the Department of Automation Engineering at the School of Electrical and Electronic Engineering, Hanoi University of Science and Technology (HUST). I hold both undergraduate and master’s degrees from HUST, graduating summa cum laude and earning a perfect grade for my Master’s thesis. I had the privilege of working under the supervision of Prof. Phuoc Doan Nguyen for my Master’s thesis, Assoc. Prof. Nga Thi-Thuy Vu for my undergraduate thesis, and I also work closely with [Dr. Minh Hoang Trinh](https://sites.google.com/view/minhhoangtrinh). Before joining HUST, I spent two years as a guidance and control engineer at [Viettel Aerospace Institute](https://viettelaerospace.vn/). My research interests include networked control, learning-based control, missile guidance algorithms, and probabilistic approach to control problems. **Please feel free to reach out if you're interested in potential research collaborations!**
+Hi everyone! I’m Nhat-Minh, a PhD student in the Department of Automation Engineering at the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore, where I am fortunate to be supervised by [Prof. Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
 
+I hold both undergraduate and master’s degrees in Control and Automation Engineering from Hanoi University of Science and Technology (HUST), graduating valedictorian and earning a perfect grade for my Master’s thesis. During my studies, I had the privilege of working under the guidance of Prof. Phuoc Doan Nguyen (Master’s thesis), Assoc. Prof. Nga Thi-Thuy Vu (undergraduate thesis), and have collaborated closely with [Dr. Minh Hoang Trinh](https://sites.google.com/view/minhhoangtrinh). 
 
-**Important!!! I'm looking for an open PhD position.**
+Since 2024, I have also been serving as a researcher and faculty member in the Department of Automation Engineering at HUST. Prior to that, I worked for two years as a guidance and control engineer at the [Viettel Aerospace Institute](https://viettelaerospace.vn/). 
+
+My research interests include networked control, learning-based control, missile guidance algorithms, and probabilistic approach to control problems. **Please feel free to reach out if you're interested in potential research collaborations!**
 
 
 ## Research
