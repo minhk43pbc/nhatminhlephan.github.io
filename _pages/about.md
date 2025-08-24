@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! I’m Nhat-Minh, a PhD student in the Department of Automation Engineering at the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore, where I am fortunate to be supervised by [Prof. Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
+Hi everyone! I’m Nhat-Minh, a PhD student in Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore, where I am fortunate to be supervised by [Prof. Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
 
 I hold both undergraduate and master’s degrees in Control and Automation Engineering from Hanoi University of Science and Technology (HUST), graduating valedictorian and earning a perfect grade for my Master’s thesis. During my studies, I had the privilege of working under the guidance of Prof. Phuoc Doan Nguyen (Master’s thesis), Assoc. Prof. Nga Thi-Thuy Vu (undergraduate thesis), and have collaborated closely with [Dr. Minh Hoang Trinh](https://sites.google.com/view/minhhoangtrinh). 
 
